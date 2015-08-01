@@ -1,0 +1,5 @@
+To setup:
+
+npm install -g browserify
+npm install -g bower
+npm install -g grunt-cli

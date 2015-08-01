@@ -1,0 +1,35 @@
+{
+  "name": "sabroso-frontend",
+  "version": "0.0.1",
+  "description": "Front end to Sabroso framework.",
+  "author": "Alan Barber <alan.e.barber@gmail.com>",
+  "contributors": [
+    {
+      "name": "Alan Barber",
+      "email": "alan.e.barber@gmail.com"
+    }
+  ],
+  "main": "TBD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanebarber/sabroso"
+  },
+  "keywords": [
+    "biotechnology",
+    "analytics",
+    "platform",
+    "visualization"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "flux-react": "~2.6.6"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-react": "~0.12.2",
+    "grunt-browserify": "~3.8.0"
+  },
+  "preferGlobal": true,
+  "private": false,
+  "license": "BSD"
+}
